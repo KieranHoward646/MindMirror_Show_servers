@@ -1,0 +1,6 @@
+{
+  "name": "MindMirror Console",
+  "description": "An interactive presentation and product simulation console for RUC MindMirror, an AI-powered multimodal psycho-health platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
